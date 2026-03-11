@@ -61,12 +61,12 @@ resource allocation challenge for NT Government.
 - **Source:** NT Government Open Data
 - **Dataset:** NT Police Recorded Offences
 - **Coverage:** Northern Territory, 2023–2025
-- **Link:** [data.nt.gov.au]([https://data.nt.gov.au](https://data.nt.gov.au/dataset/nt-crime-statistics-january-2025))
+- **Link:** [data.nt.gov.au](https://data.nt.gov.au/dataset/nt-crime-statistics-january-2025)
 
 ---
 
 ## 👤 Author
 **Quoc Chien Kieu (Nolan)**  
 Data Analyst | Darwin, NT  
-[LinkedIn](https://linkedin.com/in/quoc-chien-kieu) · 
+[LinkedIn](https://linkedin.com/in/quoc-chien-kieu) ·
 [GitHub](https://github.com/chien-kieu)
